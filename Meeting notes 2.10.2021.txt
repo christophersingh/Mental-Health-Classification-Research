@@ -1,0 +1,14 @@
+Meeting 2/10/2021
+
+chi-squared test
+Sharprio Wilkes test
+apply PCA to non-significant features
+
+Steps: 
+1. Get more data so that we don't have columns with a 0. DONE
+2. apply PCA to non-significant features. Exclude the twitter column
+3. re-apply ANOVA test to the dataset
+4. re-apply ML algorithms to the set of statistically significant features.
+
+
+
